@@ -67,6 +67,7 @@ public class Metados {
 	     driver = new ChromeDriver();
 	     driver.get(url);
 	     driver.manage().window().maximize();
+	     
 	    }}
 	     
 		
