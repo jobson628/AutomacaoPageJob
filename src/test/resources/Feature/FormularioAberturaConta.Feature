@@ -2,7 +2,7 @@
 @tag
 Feature: Apertura de conta
 
-  @tag2
+  @tag1
   Scenario: Fluxo do formulario de abertura de conta pessoa fisica
   Given que o usuario acesse a url"https://www.original.com.br/"
   And selecione o botao abrir nova conta
